@@ -1,7 +1,4 @@
-
-
 GB Electricity Market - Intraday Trading Strategy
-
 This project presents a comprehensive approach to designing and backtesting intraday trading strategies on the Great Britain (GB) electricity market. The work was developed as part of the KRITI 2025 competition under the "Low Prep" category by Hostel 57.
 
 **Objective**
